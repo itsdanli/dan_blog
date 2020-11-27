@@ -22,7 +22,7 @@ title: Dan's Blog
 email: itsdanli@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Personal site to discuss what I'm working on and a place for me to keep track of stuff!
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/dan_blog" # the subpath of your site, e.g. /blog
 url: "https://itsdanli.github.io/dan_blog/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: itsdanli
 github_username:  itsdanli

@@ -5,6 +5,6 @@ title: Book Notes
 
 {% for book in site.books %}
   <div class="book">
-    <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
+    <h2><a href="{{ book.url | prepend: site.baseurl }}">{{ book.title }}</a></h2>
   </div>
 {% endfor %}
