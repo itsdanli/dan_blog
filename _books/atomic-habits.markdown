@@ -1,6 +1,6 @@
 ---
 layout: book
-title: Atomic Habits Notes
+title: Atomic Habits by James Clear
 ---
 
 ### 1. Make it Obvious
