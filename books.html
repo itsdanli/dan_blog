@@ -1,0 +1,10 @@
+---
+layout: page
+title: Book Notes
+---
+
+{% for book in site.books %}
+  <div>
+    <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
+  </div>
+{% endfor %}
