@@ -2,7 +2,7 @@ title: Dan's Blog
 email: itsdanli@protonmail.com
 description: >- 
   Personal blog to discuss what I'm working on.
-baseurl: "/dan_blog"
+baseurl: ""
 url: "http://www.itsdan.li/" 
 twitter_username: itsdanli
 github_username:  itsdanli
