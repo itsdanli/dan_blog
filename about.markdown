@@ -1,7 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+> "Be yourself, everyone else is taken" -- Oscar Wilde
 
-Currently residing in beautiful Chicago, Illinois. I like being outdoors, coding, financial markets, yoga and exploring new ideas.
+#### Living in Chicago.
+
