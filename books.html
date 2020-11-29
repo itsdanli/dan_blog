@@ -6,6 +6,6 @@ permalink: /books/
 
 {% for book in site.books %}
   <div class="book">
-    <h2><a href="{{ book.url | prepend: site.baseurl }}">{{ book.title }}</a></h2>
+    <h3><a href="{{ book.url | prepend: site.baseurl }}">{{ book.title }}</a></h3>
   </div>
 {% endfor %}

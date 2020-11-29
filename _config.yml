@@ -6,6 +6,7 @@ baseurl: ""
 url: "http://www.itsdan.li/" 
 twitter_username: itsdanli
 github_username:  itsdanli
+linkedin_username: itsdanli
 
 # Build settings
 theme: minima

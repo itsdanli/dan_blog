@@ -2,13 +2,17 @@
 layout: book
 title: Atomic Habits by James Clear
 ---
+
 _Read November 2020_
 
-_How I liked it: 7/10_
+_How I recommend it: 7/10_
+
+_This book has been floating around my feed recently so I decided to give it a read. If you are struggling with elminating bad habits and building good ones (basically the title of this book), this is a good start. Most ideas are simplistic, which is great and straight to the point. Foundationally, habit building is **simple** since we are just a collection of them. Understanding the surface level psychology behind formation can lead you to being more self-aware which is one of the key points!_
 
 
-> “Plants are born tender and pliant; dead, they are brittle and dry. Thus whoever is stiff and inflexible is a disciple of death. Whoever is soft and yielding is a disciple of life. The hard and stiff will be broken. The soft and supple will prevail. —LAO TZU”
+> “Men are born soft and supple; dead they are stuff and hard. Plants are born tender and pliant; dead, they are brittle and dry. Thus whoever is stiff and inflexible is a disciple of death. Whoever is soft and yielding is a disciple of life. The hard and stiff will be broken. The soft and supple will prevail. —LAO TZU”
 
+## Notes
 
 # 1. Make it Obvious
 The brain is a prediction machine — continuously taking in information and analyzing it. With enough practice you can predict outcomes without consciously thinking about it
