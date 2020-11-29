@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Art"
+date:   2020-11-28
+---
+
+Some content
