@@ -38,11 +38,11 @@ I'm developing more technical skills to allow me to not miss details. Data drive
 
 ## What I'm Doing Now
 
-#### Living in Chicago, Illinois and developing my professional career
+#### **Living in Chicago, Illinois and developing my professional career**
 
 After a short stint of leaving Chicago to consider other options and further develop technical skills, I am back and am currently working professionally as a trader in the proprietary trading industry. Markets have been an interest since high school so I'm very grateful to be able to gain this experience.
 
-#### In 2021, I'm looking to stay active and find a creative outlet.
+#### **In 2021, I'm looking to stay active and find a creative outlet**
 
 The start of this blog is in hopes of also leading to working on other projects that can inspire creativity. I'm excited to incorporate this as part of a weekly incoporation.
 
