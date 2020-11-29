@@ -44,7 +44,7 @@ After a short stint of leaving Chicago to consider other options and further dev
 
 #### **In 2021, I'm looking to stay active and find a creative outlet**
 
-The start of this blog is in hopes of also leading to working on other projects that can inspire creativity. I'm excited to incorporate this as part of a weekly incoporation.
+The start of this blog is in hopes of also leading to working on other projects that can inspire creativity. I'm excited to incorporate additions into my weekly routine.
 
 I've also been trying to do more yoga and after watching some climbers in Joshua Tree recently, feel like it could be fun to try my hand at climbing at a gym in Chicago.
 
