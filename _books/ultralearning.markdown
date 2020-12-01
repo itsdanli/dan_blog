@@ -88,4 +88,18 @@ Invest 10 percent of total expected learning time into research prior to startin
 
 **Diminishing returns and marginal benefit calculation**
 
+Law of diminishing returns and 10 percent rule can provide good approximations for how much research to do and when.
 
+Long term metalearning -- benefits of ultralearning aren't always apparent from first project. That projects occurs when you're at your lowest level of metalearning.
+
+### Principle 2 - Focus
+
+**Problem 1: Failing to Start**
+
+Procrastination is the constant state of lives of those who cannot focus.
+
+Much of procrastination is unconcious -- _awareness_ of it is first step in overcoming it.
+
+Telling yourself you need only spend 5 minutes on task before stopping is something you can do to get started.
+
+Adding rules for yourself. e.g. only quit when remembered the most recent card of a flash card deck.
