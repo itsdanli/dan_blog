@@ -103,3 +103,9 @@ Much of procrastination is unconcious -- _awareness_ of it is first step in over
 Telling yourself you need only spend 5 minutes on task before stopping is something you can do to get started.
 
 Adding rules for yourself. e.g. only quit when remembered the most recent card of a flash card deck.
+
+_Keep your environment distraction free_
+
+_Work on the task you can focus on easier_
+
+_Your mind_ -- Clear, calm mind best for focusing on all learning problems.
