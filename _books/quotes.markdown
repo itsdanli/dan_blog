@@ -4,17 +4,7 @@ title: Favorite Tidbits/Quotes from Books
 ---
 
 
-“Caed Budris says, “Happiness is the space between one desire being fulfilled and a new desire forming.”
-
-“Plants are born tender and pliant;
-dead, they are brittle and dry.
-Thus whoever is stiff and inflexible
-is a disciple of death.
-Whoever is soft and yielding
-is a disciple of life.
-The hard and stiff will be broken.
-The soft and supple will prevail.
-—LAO TZU”
+“Happiness is the space between one desire being fulfilled and a new desire forming.” - Caed Budris
 
 “When angry, count to 10 before you speak. If very angry, a hundred” - Thomas Jefferson
 
