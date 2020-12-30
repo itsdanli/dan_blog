@@ -1,8 +1,8 @@
 ---
-layout: book
-title: Favorite Tidbits/Quotes from Books
+layout: page
+title: Quotes
+permalink: /quotes/
 ---
-
 
 “Happiness is the space between one desire being fulfilled and a new desire forming.” - Caed Budris
 
